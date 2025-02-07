@@ -1,0 +1,12 @@
+{
+    "name": "listening-events-v1",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "dotenv": "^16.0.3",
+        "ethers": "^5.7.2"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}
